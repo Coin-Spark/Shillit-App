@@ -3,7 +3,7 @@
 TOKEN Name: Shill Token 
 Symbol = "SHILL"; decimals = 18;
 
-Explorer : https://bscscan.com/token/0xd89530c3af2f6c60c0b36c50c4a7e0c5f1596948
+Explorer : https://bscscan.com/address/0x6c427c94293335ca8d9b12ead509398762b4d4bd
 
 Website : https://www.shillit.baby/
 
@@ -23,7 +23,7 @@ Taxes structure:
 
 -------------------------------
 
-Rug Check: https://poocoin.app/rugcheck/0xd89530c3af2f6c60c0b36c50c4a7e0c5f1596948/
+Rug Check: https://poocoin.app/rugcheck/0x6c427c94293335ca8d9b12ead509398762b4d4bd/
 
 Mint Function : NO
 
