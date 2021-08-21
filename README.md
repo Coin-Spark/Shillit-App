@@ -15,7 +15,7 @@ Deflationary: Yes
 
 Taxes structure:
 
-5% taxes sent Liquidity Pool
+5% sent to Liquidity Pool
 
 2% reflected to HODLERS with RFi, Reflected Finance // @User check https://github.com/ref-finance/ref-contracts
 
