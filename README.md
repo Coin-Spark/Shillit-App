@@ -39,8 +39,13 @@ Bot Prevention during Launch:
 
 The Sell Tax will be set at 40% during the first 30 minutes.
 Then decreases regularly every 30 minutes:
+
 0-30m : 40%
+
 31-60m : 31%
+
 61 - 90m : 22%
+
 91 - 120 : 16%
+
 +121m : 10%
