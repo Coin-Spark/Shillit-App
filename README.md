@@ -9,7 +9,7 @@ Website : https://www.shillit.baby/
 
 -------------------------------
 
-Total supply: 9.999.999.999 billions + 1 NFT Art Token named "THE FIRST SHILL" = 10.000.000.000
+Total supply: 9.999.999.999 + 1 NFT Art Token named "THE FIRST SHILL" = 10.000.000.000
 
 Deflationary: Yes
 
