@@ -27,7 +27,7 @@ Rug Check: https://poocoin.app/rugcheck/0x6c427c94293335ca8d9b12ead509398762b4d4
 
 Mint Function : NO
 
-Liquidity Locked : Liquidity will be locked on pancake right after adding it, for 730 days. (will post proof on the website)
+Liquidity Locked : Liquidity will be locked on pancake right after adding it, for 365 days. (will post proof on the website)
 
 Owner address: 0xd832eca5efbe923c8d9f968569150f2fe3a7c5d3
 
