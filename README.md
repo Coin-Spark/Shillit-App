@@ -1,11 +1,11 @@
-# Shillit-Baby
+# Shillit-App
 
 TOKEN Name: Shill Token 
 Symbol = "SHILL"; decimals = 18;
 
 Explorer : https://bscscan.com/address/0x6c427c94293335ca8d9b12ead509398762b4d4bd
 
-Website : https://www.shillit.baby/
+Website : https://www.shillit.app/
 
 -------------------------------
 
